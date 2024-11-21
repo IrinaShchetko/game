@@ -1,4 +1,4 @@
-import data from './../../../data/words.json';
+import data from '../../data/words.json';
 
 export const GenreSelectionPage = () => {
   return (

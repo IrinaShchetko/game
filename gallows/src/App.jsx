@@ -1,6 +1,6 @@
 import './App.css';
-import { GenreSelectionPage } from './components/pages/genreSelection';
-import { MainPage } from './components/pages/main';
+import { GenreSelectionPage } from './pages/genreSelection';
+import { MainPage } from './pages/main';
 
 function App() {
   return (
